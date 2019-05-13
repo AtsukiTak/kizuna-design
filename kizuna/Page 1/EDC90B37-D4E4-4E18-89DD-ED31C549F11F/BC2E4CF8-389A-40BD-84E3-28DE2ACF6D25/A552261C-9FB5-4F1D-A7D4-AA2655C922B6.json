@@ -1,0 +1,105 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.344825634057971,
+            "green": 0.344825634057971,
+            "red": 0.344825634057971
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 686,
+        "location": 0
+      }
+    ],
+    "string": "KIZUNAは、Bitcoinで支援先に寄付ができるプラットフォームです。寄付された方のお金（人が人を想う気持ち）を1円でも多く届けたい。その想いから生まれました。\n\nBitcoinは中央銀行や国境が存在しません。そのような環境でも個と個が直接繋がって決済ができる、少ない手数料で送金ができるという特徴を持っています。この特徴を利用して、世界中で支援を必要としている団体に直接寄付ができる、そんなプラットフォームを作りました。\n\nBitcoinが示すこの直接繋がる世界観は、世界が直接あなたと繋がっていて、あなたを救ってくれた人が地球の裏側にいるかもしれない。その人と直接繋がって手を取り合い、新たな絆と共に、「あなたも今日から一緒に世界を作り上げていく仲間なんだよ」ということを伝えていく手段にもなると思います。\n\nこのプロジェクトは、仮想通貨業界が盛り上がりを見せる以前の2016年初期に行ったクラウドファンディングで171万円を達成しました。111名の協力者、創設メンバー、スポンサーを始め、多くの方が支援を表明してくれています。2019年現在、総額約420万円の寄付金が各コミュニティまで届けられています。\n\n今、この世界を変えたいと思う人たちはこうして動いています。私はこの人生をかけて、世界中の子供たちの笑顔を守っていきたいと本気で思っています。今、ここから世界を変えていくのか、何もしないのか。私はこの受け継がれたバトンを落とすことは絶対にしたくありません。\n\nみなさん、私と一緒にこの地球に新しいKIZUNAを作りましょう。  KIZUNA 代表　藤本真衣"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A552261C-9FB5-4F1D-A7D4-AA2655C922B6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 542,
+    "width": 882,
+    "x": 288,
+    "y": 205
+  },
+  "glyphBounds": "{{0, 10}, {880, 520}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "KIZUNAは、Bitcoinで支援先に",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.344825634057971,
+          "green": 0.344825634057971,
+          "red": 0.344825634057971
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica-Light",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B76F5F14-19D2-4D3A-B137-9E8DA39BA236",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 353,
+    "width": 400,
+    "x": 290,
+    "y": 2006
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "93EEB161-DDE7-4F48-A55E-A0BD56FA9404"
+    },
+    {
+      "class": "group",
+      "id": "F7A805DB-711F-467F-9766-23774FDCABD2"
+    },
+    {
+      "class": "text",
+      "id": "CBA39032-DF63-4711-B045-BD0ACE303FFD"
+    },
+    {
+      "class": "rectangle",
+      "id": "D1930527-37F0-408D-B1D9-8CFC91000439"
+    },
+    {
+      "class": "text",
+      "id": "C563E688-09F8-497A-B682-00F954B74F3A"
+    },
+    {
+      "class": "text",
+      "id": "2EE00AA0-2090-4AC1-B8A9-58CE2EB173BD"
+    }
+  ],
+  "name": "CharityCard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

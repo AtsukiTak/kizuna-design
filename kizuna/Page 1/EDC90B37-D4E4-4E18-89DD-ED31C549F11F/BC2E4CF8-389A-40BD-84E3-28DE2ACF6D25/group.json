@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC2E4CF8-389A-40BD-84E3-28DE2ACF6D25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1308,
+    "width": 1440,
+    "x": 0,
+    "y": 3092
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "32BC9C90-A0C3-4350-9B87-B8829DA855BE"
+    },
+    {
+      "class": "group",
+      "id": "F1F981C9-E55B-4B0E-B158-0E75EFDE8A61"
+    },
+    {
+      "class": "group",
+      "id": "B283D20E-A4EA-4277-A1F1-C14DA1C941C8"
+    },
+    {
+      "class": "group",
+      "id": "CE81468C-9968-4F77-A011-401306D6155A"
+    },
+    {
+      "class": "group",
+      "id": "1607043E-50AF-48A2-9E01-8436C70FA0AB"
+    },
+    {
+      "class": "text",
+      "id": "A552261C-9FB5-4F1D-A7D4-AA2655C922B6"
+    },
+    {
+      "class": "group",
+      "id": "8549C63E-9D64-4216-8273-52003CCBE16D"
+    }
+  ],
+  "name": "About Kizuna",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
