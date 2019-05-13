@@ -110,8 +110,8 @@
       "id": "2F5BDA1B-5252-4C6B-AF49-60680C2C55DE"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Desktop",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1017,
