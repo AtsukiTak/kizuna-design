@@ -3,13 +3,13 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EDC90B37-D4E4-4E18-89DD-ED31C549F11F",
+  "do_objectID": "CA710A61-65EC-44E5-B06C-334E62A2B799",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,21 +22,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6205,
+    "height": 2175,
     "width": 1440,
-    "x": 353,
-    "y": 184
+    "x": -721,
+    "y": -512
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      1210,
+      230
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -51,59 +53,39 @@
   "layers": [
     {
       "class": "group",
-      "id": "B0548ACB-F060-4BF8-84FA-D8A71CAA67EC"
+      "id": "0133306A-0356-4E9D-8C58-C65FC60FABE1"
     },
     {
       "class": "group",
-      "id": "CA381886-5A9E-46B6-80E5-462F4D0439D9"
+      "id": "39BF22DA-CE32-42FA-AA1D-011B8F20230E"
     },
     {
       "class": "group",
-      "id": "BC2E4CF8-389A-40BD-84E3-28DE2ACF6D25"
+      "id": "5E403D0B-8D91-4CDC-8A9A-EB67A9E16AC6"
     },
     {
       "class": "group",
-      "id": "B58F82E6-1403-406A-9008-DFD252A8E26C"
+      "id": "74AACF1C-039C-4E4A-91B2-BC6231B8F8A5"
+    },
+    {
+      "class": "group",
+      "id": "AB6EDB64-9389-49AA-8211-17CD9B60458F"
+    },
+    {
+      "class": "group",
+      "id": "932C0F78-CDC7-4204-AD2C-71899414DD1B"
+    },
+    {
+      "class": "group",
+      "id": "E67FBCAC-9EB0-450D-AE44-76D0CC0F6DB4"
     },
     {
       "class": "rectangle",
-      "id": "91F8A521-32DE-4003-930F-253590FCA832"
-    },
-    {
-      "class": "group",
-      "id": "1A198EF7-D7EF-4C15-A661-C10AF2162B44"
-    },
-    {
-      "class": "group",
-      "id": "2285D282-EE76-4688-B3AB-DE4C96402133"
-    },
-    {
-      "class": "group",
-      "id": "B76F5F14-19D2-4D3A-B137-9E8DA39BA236"
-    },
-    {
-      "class": "group",
-      "id": "168C39C3-F8A6-4048-8A8B-FE4C3F501F34"
-    },
-    {
-      "class": "group",
-      "id": "6B5BA1C5-5840-4746-AA96-D3F7D6A47B96"
-    },
-    {
-      "class": "group",
-      "id": "D5B6774C-413C-441A-BEDB-573478AB0F16"
-    },
-    {
-      "class": "group",
-      "id": "E50D9ED9-4F8D-4EC3-8904-AB96844A2F45"
-    },
-    {
-      "class": "group",
-      "id": "94C8CFE0-8610-4AB0-B353-713811AFE8AD"
+      "id": "134DF6C5-4BEE-42FB-B957-66F2D38597CB"
     }
   ],
   "name": "Desktop HD",
-  "nameIsFixed": true,
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -9,37 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7058823529411764,
-            "green": 0.5764705882352941,
-            "red": 0.07450980392156863
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 24
+              "name": "Helvetica-Light",
+              "size": 18
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 39,
-            "minimumLineHeight": 39
-          }
+            "_class": "paragraphStyle"
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "シリア難民とルワンダの青少年を「戦争を本気で無くす」リーダーに育成する学校を始動"
+    "string": "Reports"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F1D9DB18-2685-415B-A82A-AA8621C3099F",
+  "do_objectID": "90721DF8-E57C-4527-A821-DA186F109149",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "ADE55B90-9C39-4AB0-AD71-E00354AA54A6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "48A5DF8C-9008-44EF-B294-9B9638E83499",
-    "height": 91,
-    "width": 806,
-    "x": 38,
-    "y": 425.6165327210103
+    "height": 22,
+    "width": 64,
+    "x": 14,
+    "y": 11
   },
-  "glyphBounds": "{{1, 17}, {789, 64}}",
+  "glyphBounds": "{{1, 5}, {62, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,45 +62,42 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "シリア難民とルワンダの青少年を「戦争を本",
+  "name": "Reports",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9E35BE65-6C5F-4043-BF38-E4FD287BA2D5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4E4AF4E7-CA6B-4CBC-AFAE-C0C2A0C9ADE3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7058823529411764,
-          "green": 0.5764705882352941,
-          "red": 0.07450980392156863
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 24
+            "name": "Helvetica-Light",
+            "size": 18
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "maximumLineHeight": 39,
-          "minimumLineHeight": 39
-        }
+          "_class": "paragraphStyle"
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 2
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

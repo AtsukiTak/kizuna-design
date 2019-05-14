@@ -48,9 +48,29 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+          "blue": 0.1785269474637681,
+          "green": 0.1785269474637681,
+          "red": 0.1785269474637681
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
           "blue": 0.4452841938405797,
           "green": 0.4452841938405797,
           "red": 0.4452841938405797
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8470588235294118,
+          "green": 0.8470588235294118,
+          "red": 0.8470588235294118
         }
       }
     ],
@@ -86,9 +106,23 @@
       {
         "_class": "color",
         "alpha": 1,
+        "blue": 0.1785269474637681,
+        "green": 0.1785269474637681,
+        "red": 0.1785269474637681
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
         "blue": 0.4452841938405797,
         "green": 0.4452841938405797,
         "red": 0.4452841938405797
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.8470588235294118,
+        "red": 0.8470588235294118
       }
     ],
     "gradientAssets": [
@@ -122,6 +156,7 @@
     "version": 118
   },
   "pages": [
-    "Top"
+    "Top",
+    "Project"
   ]
 }

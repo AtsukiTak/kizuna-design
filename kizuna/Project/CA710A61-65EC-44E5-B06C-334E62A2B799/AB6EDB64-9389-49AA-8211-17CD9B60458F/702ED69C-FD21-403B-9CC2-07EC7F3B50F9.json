@@ -9,21 +9,22 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7058823529411764,
-            "green": 0.5764705882352941,
-            "red": 0.07450980392156863
+            "blue": 0.2601052989130435,
+            "green": 0.2601052989130435,
+            "red": 0.2601052989130435
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HiraginoSans-W6",
-              "size": 24
+              "name": "HiraginoSans-W8",
+              "size": 28
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 39,
-            "minimumLineHeight": 39
+            "alignment": 0,
+            "maximumLineHeight": 49,
+            "minimumLineHeight": 49
           }
         },
         "length": 40,
@@ -35,11 +36,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F1D9DB18-2685-415B-A82A-AA8621C3099F",
+  "do_objectID": "702ED69C-FD21-403B-9CC2-07EC7F3B50F9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "ADE55B90-9C39-4AB0-AD71-E00354AA54A6",
+    "do_objectID": "A82C482D-B154-4C52-AA94-F79E0BF12E54",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "48A5DF8C-9008-44EF-B294-9B9638E83499",
-    "height": 91,
-    "width": 806,
-    "x": 38,
-    "y": 425.6165327210103
+    "do_objectID": "0AE44FA4-8707-4CA9-9AA0-D7E3DC51BE45",
+    "height": 99,
+    "width": 980,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 17}, {789, 64}}",
+  "glyphBounds": "{{1, 24}, {976, 77}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,35 +74,36 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9E35BE65-6C5F-4043-BF38-E4FD287BA2D5",
+    "do_objectID": "5E84E879-4F32-47B9-84CB-A2808522F59E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4E4AF4E7-CA6B-4CBC-AFAE-C0C2A0C9ADE3",
+      "do_objectID": "E28356EE-8923-4943-8015-A7B8896ABE39",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7058823529411764,
-          "green": 0.5764705882352941,
-          "red": 0.07450980392156863
+          "blue": 0.2601052989130435,
+          "green": 0.2601052989130435,
+          "red": 0.2601052989130435
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HiraginoSans-W6",
-            "size": 24
+            "name": "HiraginoSans-W8",
+            "size": 28
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 39,
-          "minimumLineHeight": 39
+          "alignment": 0,
+          "maximumLineHeight": 49,
+          "minimumLineHeight": 49
         }
       },
-      "verticalAlignment": 2
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
